@@ -1,7 +1,7 @@
 XSL Workshop.
 Lessons:
 
-*Basic understanding I:
+**Basic understanding I:**
 
 1.	Understanding the XSL sheet: Templates, elements, attributes, For each, value-of-select and if	
 2.	Nesting	
@@ -9,7 +9,7 @@ Lessons:
 4.	Syntax rules: Case Sensitive and Quotation Marks	
 5.	Evaluate an XML site	
 
-*Basic understanding II:
+**Basic understanding II:**
 
 1.	Advanced tags: variable, choose	
 2.	Advanced functions: translate, normalize-space	
@@ -17,12 +17,12 @@ Lessons:
 4.	Syntax rules: Encoding and Spacing	
 5.	Namespaces	
 
-*Advanced understanding I:
+**Advanced understanding I:**
 
 1.	Evaluate Multi Loc	
 2.	How to create a Multi Loc XSL sheet	
 
-*Advanced understanding I:
+**Advanced understanding I:**
 
 1.	Syntax error scenarios	
 
