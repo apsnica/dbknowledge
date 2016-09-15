@@ -23,7 +23,7 @@ Lessons:
 1.	Evaluate Multi Loc	
 2.	How to create a Multi Loc XSL sheet	
 
-**Advanced understanding I:**
+**Advanced understanding II:**
 
 1.	Syntax error scenarios	
 
