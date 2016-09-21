@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Master parent node -->
+<jobs>
+    <!-- Children node. Each children contains one unique job -->
+	<job>
+	    <!-- CBUserJobID-->
+		<jobId>224</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=224]]>
+		</applyUrl>
+		    <!-- CBJobTitle-->
+		<title>
+			<![CDATA[Administrative Assistant, Associate]]>
+		</title>
+		<trackingCode>
+		    <!-- CBDisplayJobID-->
+			<![CDATA[N2016-09-001]]>
+		</trackingCode>
+	    	<!-- CBDescription-->
+		<jobDescription>
+			<![CDATA[<p>WR Systems, Ltd. has a need for an entry level Administrative Assistant, Associate to support the entire division. This position allows the selected candidate to assist the ESD staff in multiple duties and provides a great groundwork for familiarization with a large percentage of the staff, our customers and partners, as well as managers.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Process (scan, fax, and file) various reports including expense reports; answer and forward telephone calls</li><li>Receive and process visitors; direct individuals to appropriate employees within the organization</li><li>Assign appropriate security badges for all employees and visitors</li><li>Maintain front reception area</li><li>Process incoming and outgoing mail</li><li>Maintain employee and customer lists and phone numbers</li><li>Provide general administrative support for office personnel</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>Minimum of one year direct and/or related experience</li><li>High School Diploma or equivalent</li><li>Excellent knowledge of MS Office suite</li><li>Must be very well organized and extremely good at prioritizing and executing multiple tasks.&nbsp;</li><li>Must possess a sense of urgency and responsiveness.</li><li>Must take ownership of responsibilities and exhibit good follow-up and follow-thru capabilities.</li><li>Candidate should have a pleasant attitude, excellent communication/customer service skills, a clear and cheerful telephone voice, skilled in telephone etiquette, and a professional appearance.</li><li>Must work well with others, but be able to work well independently with minimal supervision.</li></ul><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		    <!-- CBRequirements-->
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-09-12T15:12:53Z]]>
+		</postingDate>
+		<!-- Parent node-->
+		<jobLocation>
+		    <!-- CBCountry-->
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<!-- CBState-->
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<!-- CBCity-->
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Office and Administrative Support]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.20000	Government Business Solutions]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<!-- End of job node -->
+	<job>
+		<jobId>223</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=223]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Warehouse Specialist]]>
+		</title>
+		<trackingCode>
+			<![CDATA[N2016-08-004]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Warehouse Specialist to become a part of the Material Management Team in the Logistics Service Center providing professional and proactive assistance with all aspects of material handling for WR ESD.</p><p>&nbsp;</p><p>Position responsibilities include but are not limited to:</p><ul><li>Handling shipping and receiving requirements which include; unloading trucks, matching purchase orders to sales orders/packing lists and distributing, moving materials and items from receiving or storage areas or to other designated areas, sorting and placing materials or items on racks, shelves, or in bins, checking in Government and Commercial property, and processing/packaging shipments and tracking of material</li><li>Filling requisitions, work orders, or requests for materials, tools, or other stock items and distributes items to shipping or to designated route driver storage area</li><li>Handling WR ESD customer service requests</li><li>Ensuring warehouse is accessible and safe for salespeople and customer traffic</li><li>Assembling customer orders from stock and places orders on pallets or shelves, or relocating orders to a holding area or shipping department</li><li>Marking materials with identifying information using appropriate method. Opening bales, crates, and other containers</li><li>Recording amounts of materials or items received or distributed via appropriate computer program</li><li>Assisting in counting of physical inventory</li><li>Weighing and counting items for distribution within plant to ensure conformance to company standards</li><li>May be assigned facilities maintenance duties as needed. Completing requisition forms to order supplies from other departments</li><li>Organizing warehouse and work area for orderliness at all times</li></ul><p>&nbsp;</p><p>Candidates must possess the following skills and experience:</p><ul><li>Entry-level experience in a variety of warehouse and shipping and receiving responsibilities in support of electronic and/or mechanical systems</li><li>High School Diploma or equivalent</li><li>Valid Driver&rsquo;s License and Good Driving Record</li><li>Physical ability capable to lift and carry&nbsp; material up to 50 lbs.</li><li>Able to stand for long periods of time, climb ladders up to 12 feet, see the computer screen, and operate duplicating equipment</li><li>Ability to access government installations</li><li>Ability to operate manual transmission truck for local deliveries and forklift</li><li>Must be proficient in Microsoft Office.&nbsp;</li><li>Knowledgeable in OSHA, safety and government property handling a plus</li></ul><p>&nbsp;</p><p>Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists. Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form. Work well within a team but also able to work reliably and responsibly without constant supervision.&nbsp; Self-starter with outstanding accuracy and strict attention to detail.</p><p>&nbsp;</p><p><strong>Able to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-08-26T01:06:49Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Warehouse]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>220</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=220]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technician (AIT)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[N2016-08-002]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Technician (AIT) to perform shipboard electronic systems and equipment installations onboard US Navy and US Army Vessels in various CONUS and OCONUS installations.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Routing, banding and terminating (connector fabrication) cables.</li><li>Installing and modifying equipment racks and the removal of existing systems and equipment which may include but not limited to the following:&nbsp; Navigation, Interior and Exterior Communications and Radar.</li><li>Travel required to include overseas for periods greater than 60 days</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>3 years&rsquo; experience with shipboard systems/ equipment installation</li><li>High School Diploma or GED equivalent</li><li>Familiar with standard concepts, practices, tools, requirements and procedures within the field of electronics repair, fabrication and installation.</li><li>Previous installation experience to include installation of equipment, cableways, cables, connectors (multi pin, and coaxial), and the assembly of mechanical parts as necessary per the tasking.</li><li>Ability to work in an industrial shipboard/shipyard environment, climb ladders and wear all equipment.</li><li>Ability to read and understand drawings and schematics and have the troubleshooting skills to identify and resolve problems.</li><li>Able to lift (up to 75lb), carry and transport heavy equipment and materials required for the job.</li><li>Able to receive direction from higher level technicians and complete tasking according to approved procedures and practices and also provide leadership, guidance and direction to more junior level technicians.</li><li>OSHA 10 Hour Maritime, NAVSEA Cableway, Connector and Fiber certifications and valid passport a plus.</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-08-08T01:04:56Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>219</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=219]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Systems Analyst]]>
+		</title>
+		<trackingCode>
+			<![CDATA[J2016-08-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has an immediate need for a Systems Analyst to represent the MIS department to support 250 employees in the Norfolk facility and various remote locations.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Support a broad variety of applications and platforms including end user hardware / software, mobile systems, phone systems and peripherals</li><li>Provide support for end users in a professional and courteous manner</li><li>Work on various systems and interact with department heads, program managers, project managers, accounting, networking and other groups, effectively communicate with broader employee base and senior management</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>The ability to perform logical analysis of systems and code to solve problems and provide sound solutions to new requirements in a technologically fast-moving environment</li><li>Strong programming skills in .Net environment using C# or VB with at least two years of experience</li><li>Strong analytical skills to solve problems and provide solutions for Management and Financial applications</li><li>Strong SQL Server experience including writing and analyzing complex SQL Queries, Stored Procedures, Functions, Triggers and SSIS Packages</li><li>Solid understanding of SQL Server jobs, security, database backup, restore and troubleshooting</li><li>Solid understanding of MS-Access database, queries and reports</li><li>Solid understanding of HTML</li><li>Solid knowledge of one scripting language on windows platform.&nbsp; VBScript is preferred.</li><li>Must be familiar with Internet, Windows Operating System, network and security, file system security, common windows configuration and automation of processes through the use of scripts and/or windows bat files or PowerShell</li><li>The ability to work as a team player as well as independently with minimum supervision and support</li></ul><p>&nbsp;</p><p>The following knowledge and skills are preferred but not required:</p><ul><li>LINQ, JSON and Ajax</li><li>Knowledge of Deltek Costpoint v7 application, backend and customization</li><li>Knowledge of Deltek Time &amp; Expense application, Backend and customization</li><li>Knowledge of XML, XSL and CSS</li><li>Knowledge of XML parsing using VBscript and/or Javascript</li><li>Knowledge of XML Schema building</li><li>Sharepoint 2013</li><li>Windows PowerShell</li><li>HTML 5</li><li>Visual Studio</li></ul><p>&nbsp;&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-08-04T13:48:12Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Technology and Computer-related]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>218</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=218]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technician, Senior (NAVSSI)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[N2016-06-003]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Technician, Senior (NAVSSI) for an extremely challenging, exciting and rewarding position at MARMC providing on-site maintenance, repair and support to the Fleet Technical Branch of the Mid-Atlantic Regional Maintenance Center (MARMC).</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Support system installation, operation, maintenance, assessment and connectivity problems including peripheral, interfaced and support systems</li><li>Provide assessments (C5RA, INSURV, CSPAT, CSSOT), grooms, alignments, tech assists, repairs, training and distant support for all NAVSSI System variants</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>6 years hands-on experience in the troubleshooting and repair of all variants of NAVSSI</li><li>Associates degree in Engineering or Engineering Technology, or completion of formal resident trade school or apprentice program in electronics, or completion of at least (2) US Navy &ldquo;C&rdquo; Schools in electronic equipment or systems</li><li>Additional experience in the troubleshooting and repair of shipboard Navigation and IC Announcing systems and equipment highly desirable</li><li>Although not required, previous experience working for OEM, ISEA, MARMC, RMC, FTSCLANT or MOTU is a plus</li><li>Experience in Microsoft Office, Outlook, and Excel</li></ul><p>&nbsp;</p><p>Must possess good communications skills, ability to perform multiple tasks, self-management skills, decision making skills, travel and work independently and be teamwork orientated.</p><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance. </strong></p><p><strong>&nbsp;</strong></p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-06-23T13:58:53Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>216</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=216]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Computer Lab Technician (Systems Admin, Lead)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-06-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for an experienced, savvy Computer Lab Technician (Systems Admin, Lead) capable of operating a mixed network of client computers and servers running Operating Systems such as Microsoft Windows, Linux, Solaris, and VMWare for an exciting new opportunity to support US Navy efforts to develop cutting edge technology in vital cybersecurity measures.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Install, operate, maintain, troubleshoot and repair: computer systems, computer networks, peripheral equipment, virtual computing environments, databases and software applications</li><li>Assist and communicate with users in order to effectively communicate system changes, security requirements and to plan system updates</li><li>Document and maintain system configurations of computer based labs, networks, and systems</li><li>Maintain configuration control of managed items on the network for software, hardware, firmware and network items</li><li>Communicate work status and future plans to management</li><li>Provide technical support to end users and customers</li><li>Interact with OEM vendors and others as required</li><li>Manage cables, routers and switchers as required to establish, maintain and update the networking systems</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>Minimum 5 years of professional experience as a systems administrator</li><li>Competent in administering multiple operating systems: MS Windows, Linux, Unix (SOLARIS)</li><li>Capable of managing a dynamic network that is always being improved, updated and expanded</li><li>Effective troubleshooter on operating systems, applications, databases and hardware</li><li>Experienced with VMware</li><li>Associates or Bachelor&rsquo;s degree in Engineering or Technology is preferred but not required</li><li>A+, Network+, Security+, and Linux certifications are preferred but not required&nbsp;</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance. </strong></p><p><strong>&nbsp;</strong></p><p>*Position contingent upon approval of funding*</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-06-17T17:16:36Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Dam Neck]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Computer]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>211</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=211]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Navigation Test Engineer]]>
+		</title>
+		<trackingCode>
+			<![CDATA[N2016-05-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a self-motivated, extremely detailed oriented Navigation Test Engineer to provide onsite test and evaluation support for critical Navigation acquisition programs in an US Navy laboratory development environment.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Develop a Test &amp; Evaluation Master Plan (TEMP) and execute key components of the test strategy including: Developmental Test and Evaluation (DT&amp;E), Operational Test and Evaluation (OT&amp;E), Critical Operational Issues (COIs), Critical Technical Parameters (CTPs), Capability Development Documentation (CDD), Program Scheduling, Evaluation criteria and milestone decision points.</li><li>Develop test plans and procedures for complex navigation systems and associated interfaces.</li><li>Perform setup of hardware/software test environments.</li><li>Perform analysis and verify navigation systems meet specifications.</li><li>Participate in client meetings to gather information about program needs, objectives, functions, features, and input and output requirements.</li><li>Track software and hardware defects and assist in system configuration management.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>3+ years of testing support to DoD Acquisition programs preferred</li><li>Engineering background (Electrical, Mechanical, Systems, or Software) preferred</li><li>Must be Test &amp; Evaluation centric and have a strong understanding of DoD acquisition testing</li><li>Completion of TS102, Fundamentals of Test and Evaluation is recommended</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance. </strong></p><p><strong>&nbsp;</strong></p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-05-19T14:08:20Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Engineering]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>208</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=208]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technician, Principal (IVCS)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-04-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a highly motivated Technician, Principal for an extremely challenging, exciting, and rewarding position in support of AN/STC-2 Integrated Voice Communications System (IVCS) upgrades for US Navy Ship modernization shipyard availabilities.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Installation, testing, troubleshooting, maintenance and repair of shipboard telephony systems and other digital telephone switching systems to include use of electronic test equipment in the checkout and repair of complex electrical and electronic circuits</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>US Navy Shipboard Systems experience in IVCS</li><li>Technical experience including programming, troubleshooting, repair, installation, upgrading and training personnel on the AN/STC-2 IVCS and MARCOM IVCS</li><li>10 years of progressive experience performing &ldquo;hands on&rdquo; work in support of production, installation, repair, troubleshooting, or maintenance of electronic systems or equipment in which 4 years is in the installation, repair and testing of IVCS (AN/STC-2)</li><li>AS technical degree, or completion of formal resident trade school or apprentice program in electronics, or completion of at least two (2) U.S. Navy &ldquo;C&rdquo; schools in electronic equipment or systems in which one is the AN/STC-2</li><li>Experience in Microsoft Office, Project, PowerPoint, Excel, and Adobe Acrobat</li><li>OSHA 10 Hour Maritime, NAVSEA Cableway, and NAVSEA Connector Certifications a plus</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance. </strong></p><p>&nbsp;</p><p>*Position contingent upon approval of funding*</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p>&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-04-21T15:08:29Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>206</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=206]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technical Writer]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-03-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Technical Writer&nbsp;at the customer site to&nbsp;develop, write, and edit technical and administrative documentation.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><p>&nbsp;</p><ul><li>Researches, organizes, writes, and revises content for printed and electronic manuals, documentation, and supporting materials for software and hardware</li><li>Interviews subject matter experts to become familiar with product technology</li><li>Prepares written documents following standard guidelines for technical publications</li><li>Creates graphical images, flow charts, and diagrams for inclusion in documentation</li><li>Reviews, edits, and proofreads materials written by others</li><li>Reviews and tests software and hardware for accuracy and consistency with documentation, identifying problems and suggesting revisions.</li><li>Establishes and maintains computer-based document filing system designed to ensure efficient storage, retrieval, or revision of existing documents</li><li>Keeps record of work performed</li><li>Flexibly moves from one assignment/project to the next when specific tasks assigned terminate or commence</li><li>Completes multiple tasks in a timely and efficient manner</li><li>Completes various reports to reflect completed and in-progress tasking</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>2-4 years&rsquo; documentation development experience&nbsp;</li><li>High School Diploma or equivalent; Bachelor&rsquo;s degree in English, Journalism, or Technical Writing is preferred, or equivalent experience</li><li>Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals.</li><li>Ability to write routine reports, operating instructions and correspondence.&nbsp;</li><li>Knowledge of computer graphics software; Visio a plus.</li><li>Efficiency in word processing software (MS Word) and Adobe Acrobat</li><li>Knowledge of SGML/XML/HTML-tagging a plus.</li></ul><p><strong>&nbsp;</strong></p><p><strong>Ability to obtain and maintain Secret Security Clearance</strong></p><p>&nbsp;</p><p><strong>This position is contingent upon approval of funding.</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-03-24T13:43:16Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Office and Administrative Support]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>202</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=202]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Program Assistant]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-02-002]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Program Assistant to&nbsp;work at the customer site.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Collect program and project data and aggregate information in spreadsheets and presentations</li><li>Prepare responses to project and program data calls</li><li>Coordinate and track efforts related to project deliverables and production schedule including action items, significant milestones, and project deadlines</li><li>Prepares project documents/presentations, and gains concurrence/approval from stakeholders regarding various project aspects and adjusts accordingly</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>2-4 years programmatic support experience</li><li>High School Diploma or equivalent; Associate&rsquo;s degree or higher preferred; years of experience may be substituted for education</li><li>Proficient in Microsoft Office Suite, including PowerPoint, Excel, and Word</li></ul><p><strong>&nbsp;</strong></p><p>Proven record of detailed accuracy; good written and verbal communication skills; ability to handle multiple tasks simultaneously and switch between tasks quickly; works well in a team environment; positive team building attitude; excellent organizational skills; ability to work independently and handle multiple projects.</p><p><strong>&nbsp;</strong></p><p><strong>Ability to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p><strong>*This position is contingent upon approval of funding*</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p style="text-align: left;">&nbsp;</p><p style="text-align: left;">W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-02-10T14:49:57Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Office and Administrative Support]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>201</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=201]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Field Representative, Principal (NAVCERT)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-02-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Field Representative. This is an extremely exciting and challenging position in representing the Navigation systems ISEA (In Service Engineering Activity) in the performance of Navigation Certifications (NAVCERT) and Field Change upgrades on US Navy surface ships and/or Submarines. Additionally, this will be a very demanding position requiring the ability to respond to emergencies and last minute schedule changes in support of both the customer and fleet, resulting in a tremendous amount of job satisfaction.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Conduct both dockside and at sea tests, analyze collected data and be able to identify and resolve installation, technical and procedural problems</li><li>Provide expertise to resolve Navigation system interface issues with other shipboard systems and assist with the development and updating of all required documentation and procedures</li></ul><ul><li>Travel to sponsors' sites as a technical representative of project, and conducts field tests, interprets and evaluates field data, and serves as a liaison with industrial, governmental, and other sponsors</li><li>Prepare status, progress, and final reports for projects, describing the results of field experiments and/or inspections</li><li>Light-off, configure, test, troubleshoot, and operate primary systems and peripheral equipment in support of project</li><li>Verify functioning of newly installed equipment to evaluate system performance under actual operating conditions</li><li>Continuously develop skills with new technology and systems relevant to on-going and anticipated projects</li><li>Maintain and continuously seek improvements upon test procedures and processes for maximum efficiency, safety, and quality</li><li>Provide oversight and on-the-job training to lower level technicians</li><li>Provide inputs to Project Managers for proposals and Statements of Work</li><li>Ability to travel 50-75%</li></ul><p>&nbsp;</p><p>&nbsp;Candidates must possess the following experience and skills:</p><ul><li>Eight (8) years of progressive experience performing &ldquo;hands on&rdquo; work in support of production, integration, installation, repair, troubleshooting, operation, or maintenance of government or commercial electronic systems or equipment. &nbsp;Two (2) years of experience providing technical guidance to lower level technicians.</li><li>Associate&rsquo;s Degree in Engineering or Engineering Technology, or completion of formal resident trade school or apprentice program in electronics, or completion of at least two (2) U.S. Navy &ldquo;C&rdquo; schools in electronic equipment or systems.</li><li>Knowledge and experience with the installation and operation of AN/WSN-7/7A/7B, NAVSSI, ECDU, VMS&nbsp;(ECDIS-N), EM Log, DEML, DHSYL and other related shipboard Combat Systems equipment</li><li>Must possess exceptional attention to detail and coordination skills and have the confidence and communication skills to brief senior shipboard personnel on the status of all requirements and issues</li><li>Experience with management of installations of electronic Tempalts, Ordalts, and Shipalts, including estimating, tracking, reporting, and directing</li><li>Proven management/leadership experience in the support of testing and evaluation of submarine and surface shipboard navigation systems preferred</li><li>Familiarity with MSOffice suite, including Word, Outlook, Excel and Project&nbsp;</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p><strong>*This position is contingent upon approval of funding*</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-02-08T19:02:59Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>199</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=199]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Project Engineer (Project Manager)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-01-003]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Project Engineer (Project Manager) to lead multi-disciplinary project teams using a disciplined Engineering approach. The selected candidate must have an Engineering background (Mechanical, Electrical, Software, and/or Systems), and be capable of providing direct support as well as providing oversight of high reliable/mission-critical systems.&nbsp;</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to the following:&nbsp;</p><ul><li>Manages requirements, design, development integration, installation, technical support, logistics, documentation, configuration management, and testing inclusive of both verification and validation efforts</li><li>Define system level requirements, set project milestones, assign responsibilities, coordinate and monitor the schedule, price, and technical performance of the project</li><li>Develops cost and schedule estimates, proposals, plans, and specifications</li><li>Ensure project deliverables are completed under budget and ahead of schedule</li><li>Assesses and mitigates project risk and ensures that configuration of all deliverables are well maintained&nbsp;</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience:</p><ul><li>Bachelor&rsquo;s degree in Engineering-related field</li><li>4 years of Systems Engineering experience in a leadership role</li><li>Experience following a disciplined Systems Engineering approach is essential</li><li>C/C++ and/or Java Microsoft Word, Excel, PowerPoint, Project, Outlook to varying levels of proficiency</li><li>PMP a plus, but not required.</li></ul><p>&nbsp;</p><p>The ideal candidate will possess a high level of integrity, professionalism, and self-management, as well as strong written and oral communication skills. Must have exemplary leadership and organizational skills. Must follow the company's established ISO 9001:2008 Quality Management System, which has been assessed at CMMI Maturity Level 3.</p><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance required.</strong></p><p>&nbsp;</p><p><strong>*This position is contingent upon approval of funding*</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';">W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</span></p><p>&nbsp;</p><p><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';">W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</span></p><p style="text-align: center;" align="center"><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</span></p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-02-04T15:23:58Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Program/Project Management]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>197</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=197]]>
+		</applyUrl>
+		<title>
+			<![CDATA[CMMI/ISO Subject Matter Expert]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-01-002]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for an CMMI/ISO Subject Matter Expert to directly support the SPAWAR Quality System to document processes and compliance with CMMI Level 3 requirements and ISO 9001: 2008.</p><p>&nbsp;</p><p>Position responsibilities to include, but are not limited to the following:</p><ul><li>Manages or supports problem resolution efforts</li><li>Researches and writes high-level technical support documentation including policies and procedures</li><li>Coordinates input</li><li>Independently interacts and follows up with personnel at all levels</li><li>Maintains paper and computer based filing system designed to ensure efficient storage, retrieval, or revision of existing documents</li><li>Ability to travel minimally</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>Minimum 2 years&rsquo; experience dealing with ISO 9001:2008 and CMMI Level 3 requirements</li><li>High School Diploma or equivalent; Bachelor&rsquo;s Degree preferred</li><li>Completed a 3-day Introduction to CMMI-DEV V1.3. Course, approved by either the SEI and/or CMMI-Institute</li></ul><p><strong>&nbsp;</strong></p><p><strong>Ability to obtain NACLC Trustworthiness Determination.</strong></p><p>&nbsp;</p><p><strong>*This position is contingent upon the approval of funding*</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-02-01T20:23:46Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Quality Assurance]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>196</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=196]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Engineering Intern (Mechanical)]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-01-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Mechanical Engineering Intern. Position responsibilities include, but are not limited to the following:&nbsp;</p><p>&nbsp;</p><p><strong>General Engineering&nbsp;</strong></p><ul><ul><li>Product and Technical Research</li></ul></ul><ul><ul><li>Requirements Management and Analysis</li></ul></ul><ul><ul><li>Configuration Management</li></ul></ul><ul><ul><li>Troubleshooting</li></ul></ul><ul><ul><li>Technical Documentation Packages</li></ul></ul><ul><ul><li>Lab based and shipboard Testing</li></ul></ul><ul><ul><li>Quality Assurance and Control</li></ul></ul><ul><ul><li>Administrative and Logistics Support&nbsp;&nbsp;&nbsp;&nbsp;</li></ul></ul><p>&nbsp;</p><p><strong>Mechanical Engineering</strong></p><ul><ul><li>Mechanical Design and Analysis</li></ul></ul><ul><ul><li>Mechanical Assembly</li></ul></ul><ul><ul><li>Dimensioning</li></ul></ul><ul><ul><li>Ship checks</li></ul></ul><ul><ul><li>Drafting (Block Diagrams, Manufacturing, Assembly, and Installation)</li></ul></ul><ul><ul><li>Familiarity with Autocad and/or Inventory (or similar CAD packages preferred)</li></ul></ul><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp;<strong>Required Skills</strong></p><ul><ul><li>Must be highly motivated and have a positive attitude &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li></ul></ul><ul><ul><li>Detailed oriented and possess excellent follow up skills</li></ul></ul><ul><ul><li>Excellent technical writing and verbal communication skills</li></ul></ul><ul><ul><li>Working knowledge of computers and computer applications</li></ul></ul><ul><ul><li>Able to conduct research and quickly pickup on new technical concepts</li></ul></ul><ul><ul><li>Versatile and able to perform and manage multiple tasks concurrently</li></ul></ul><ul><ul><li>Well organized and able to work well with constantly changing priorities</li></ul></ul><ul><ul><li>Dependable and able to meet and exceed delivery schedules</li></ul></ul><ul><ul><li>Must be able to work independently with minimal supervision</li></ul></ul><ul><ul><li>Must be capable of working in a shipboard environment</li></ul></ul><ul><ul><li>Must be able to travel 5-20% of the time</li></ul></ul><p>&nbsp;</p><p>Recent Engineering Graduate or pursuing an Engineering degree preferred &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><strong>&nbsp;</strong></p><p><span style="color: #000000;"><strong>Ability to obtain and maintain Secret Security Clearance required.</strong></span></p><p>&nbsp;</p><p><strong><span style="color: #000000;">*This position is contingent&nbsp;upon approval of funding*&nbsp;</span></strong></p><p><br /><span style="color: #000000;">The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</span></p><p style="orphans: auto; text-align: start; widows: 1; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10pt; font-family: Verdana, sans-serif; color: #000000;">&nbsp;</span></p><p style="orphans: auto; text-align: start; widows: 1; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10pt; font-family: Verdana, sans-serif; color: #000000;">W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</span></p><p style="orphans: auto; text-align: start; widows: 1; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10pt; font-family: Verdana, sans-serif; color: #000000;">&nbsp;</span></p><p style="orphans: auto; text-align: start; widows: 1; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10pt; font-family: Verdana, sans-serif; color: #000000;">W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</span></p><p style="text-align: center; orphans: auto; widows: 1; -webkit-text-stroke-width: 0px; word-spacing: 0px;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Verdana, sans-serif;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled</span><span style="font-size: 10pt; font-family: Verdana, sans-serif;"> / Sexual Orientation / Gender Identity</span></span></p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-02-01T17:08:01Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Engineering]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Part-Time]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>195</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=195]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technician, Senior]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2016-03-002]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for a Senior Technician to be responsible for shipboard NAVSSI (Block 4.2.0 and 4.2.1) hardware and software installations and upgrades to include Pre-Installation Check Outs (PICO) and System Operational Verification Testing (SOVT) in support of our SPAWAR NAVSSI Installation representative.</p><p>&nbsp;</p><p>This is an exciting and rewarding technical position supporting the hardware and software installation and upgrade of various Block 4.2.0 and 4.2.1. NAVSSI Systems onboard various US Navy Class ships. The ideal candidate will be knowledgeable and experienced with the following: installation of electronic systems and equipment onboard US Navy Ship&rsquo;s&nbsp; IAW with NAVSEA Standard Items, installation of NAVSSI version 4.2.0 and 4.2.1 software versions and fault isolation and repair of shipboard NAVSSI Systems to include the Display Control System (DCS), Real Time Subsystem (RTS) and the NAVSSI Network Station (NWS). This position requires minimal travel.</p><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>6 years&rsquo; experience as an Alteration Installation Technician with a minimum of 2 years total hands on experience with NAVSSI Block 4.2.0 and 4.2.1 variants</li><li>High School Diploma or equivalent</li><li>Microsoft Office, Outlook, PowerPoint, Excel</li><li>OSHA 10 Hour (7615) Maritime and NAVSEA Cableway required.&nbsp; NAVSEA Connector, Fiber Optic Installer and Security + would be a plus.</li></ul><p><strong>&nbsp;</strong></p><p>Must possess good communications skills, ability to perform multiple tasks, self-management skills, decision making skills, travel and work independently and be teamwork orientated.</p><p><strong>&nbsp;</strong></p><p><strong>Ability to obtain and maintain Secret Security Clearance</strong></p><p>&nbsp;</p><p><strong>This position is&nbsp;contingent upon approval of funding.&nbsp;</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2016-01-20T17:36:16Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>189</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=189]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Technical Writer]]>
+		</title>
+		<trackingCode>
+			<![CDATA[J2015-11-004]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Technical Writer to provide the technical writing expertise that is needed to develop accurate instructions, policy and other documents needed to deploy and manage the worldwide IDM program.</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to the following:&nbsp;</p><ul><li>Research and gather information from documents such as rough drafts and manufacturer&rsquo;s manuals and/or by interviewing subject matter experts as needed to complete writing assignments</li><li>Format, edit, standardize, proofread and correct information and ideas written by engineers and technicians, in accordance with set standards and arrange it in an understandable and logical order</li><li>Enhance the clarity of material by using concise word choices and plain language as defined on <a href="http://www.plainlanguage.gov">http://www.plainlanguage.gov</a></li><li>Recreate, manipulate, crop, resize, lighten, label and layout electronic images and graphics such as drawings, schematics and photographs to increase visibility or highlight areas of importance. Identify and acquire additional information or explanation needed to complete documentation</li><li>Insert tables, text boxes, schematics, diagrams, graphs, and figures into documents</li><li>Review publications and propose refinements to content or format</li><li>Track the development of technical material from the initial draft to final approval and publication</li><li>Maintain document version control, revision and approval records</li><li>Recommend and implement document standards, quality controls and content requirements</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>5 years&rsquo; experience employed as a technical writer and have a mastery of the English language, including grammar, structure, punctuation and word spelling</li><li>Bachelor&rsquo;s Degree in related discipline or advanced degree where required, or equivalent combination of education and experience</li><li>Proficient in Microsoft Word, Microsoft SharePoint, Adobe Photoshop, Adobe Acrobat, and Autodesk AutoCAD software</li><li>Direct experience writing technical documents for the Government or a Government contractor</li><li>Knowledge of the requirements for safeguarding classified information</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance; upgradeable to Top Secret.</strong></p><p>&nbsp;</p><p>Must be highly motivated and have a positive attitude; Detailed oriented and possess excellent follow up skills; Outstanding technical writing and verbal communication skills; Able to perform research and quickly learn new technical concepts; Versatile and able to perform and manage multiple tasks concurrently; Well organized and able to adapt to constantly changing priorities; Dependable and able to meet and exceed delivery schedules.</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-11-18T15:27:50Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Fairfax]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Word Processing and Technical Documentation]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.20000	Government Business Solutions]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>186</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=186]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Sr. Maintenance Planner]]>
+		</title>
+		<trackingCode>
+			<![CDATA[J2015-11-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Senior Maintenance Planner to support the DOS, DS, Office of Security Technology in implementing Maximo V7.1 and V7.5 as CMMS solution.</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to the following:&nbsp;</p><ul><li>Creating, scheduling, and generating preventative maintenance work orders</li><li>Administrating safety plans in Maximo; administrate warranty contracts in Maximo</li><li>Work closely with customer and operations team management to develop requirements for functionality enhancements to Maximo</li><li>Develop workflows in Maximo as required</li><li>Assist with regression testing of system enhancements</li><li>Mentor junior maintenance planner(s)</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>6-9 years direct experience with CMMS / Maximo Application Business Processes&nbsp;</li><li>College degree desired</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance; eligible to Top Secret</strong></p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p><p>&nbsp;</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-11-12T16:07:08Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[State Department - Rosslyn]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Program/Project Management]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.20000	Government Business Solutions]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>165</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=165]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Component Level Repair Technician]]>
+		</title>
+		<trackingCode>
+			<![CDATA[N2015-09-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R&nbsp;Systems, Ltd. has a need for a Component Level Repair Technician. This is an extremely challenging and rewarding technical position, requiring an expert technician to test, analyze, fault isolate and repair electronic equipment down to the component level.<br /><br /><br />The selected candidate will be adept at reading and understanding repair manuals, schematics, circuit diagrams and be competent in producing fault reports and will possess expertise in component level repair of electronic circuit cards and assemblies with a strong knowledge in both analog and digital circuit function and theory.</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to:</p><ul><li>Demonstrate extensive experience in the analysis of failed circuits, sometimes with minimal technical documentation and schematic</li><li>Responsible for work product&rsquo;s successful introduction into the repair cycle through its quality control check once tested and processed as repaired.</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience:</p><ul><li>Minimum of 5 years experience in component level fault isolation and repair</li><li>2 year technical degree or equivalent military or trade school training&nbsp;</li></ul><p>&nbsp;</p><p>Ability to operate electronics-related test equipment such as multi-meters, oscilloscopes, regulated DC power supplies, frequency counters and spectrum analyzers. Miniature and Micro-Miniature Soldering certification a plus.</p><p>&nbsp;</p><p><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';">The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</span></p><p style="orphans: auto; text-align: start; widows: 1; word-spacing: 0px;">&nbsp;</p><p style="orphans: auto; text-align: start; widows: 1; word-spacing: 0px;"><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';">W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</span></p><p>&nbsp;</p><p><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';">W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</span></p><p style="text-align: center;" align="center"><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif';"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</span></p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-09-09T16:43:47Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>158</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=158]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Junior Developer]]>
+		</title>
+		<trackingCode>
+			<![CDATA[J2015-08-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Junior Developer to work onsite at a State Department facility and support the implementation of Maximo 7.X as CMMS solution. The Junior Developer will work directly with the customer, development team leadership, and operations team to develop requirements and shape implementation.</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to the following:&nbsp;</p><ul><li>Develops business rules using TRM RulesManager &ndash; Configuration Control Center for Maximo, to support system configuration requirements.</li><li>Develops customizations to applications using IBM Maximo Asset Management Application Designer to improver Maximo usability</li><li>Develops Escalations and Cron Tasks to enhance system usability</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>3-5 years direct experience</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p>Must be highly motivated and have a positive attitude; Detailed oriented and possess excellent follow up skills; Outstanding technical writing and verbal communication skills; Able to perform research and quickly learn new technical concepts; Versatile and able to perform and manage multiple tasks concurrently; Well organized and able to adapt to constantly changing priorities; Dependable and able to meet and exceed delivery schedules.</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-08-17T19:57:08Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[State Department - Rosslyn]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Office and Administrative Support]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.20000	Government Business Solutions]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>136</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=136]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Field Representative, Principal]]>
+		</title>
+		<trackingCode>
+			<![CDATA[FN2015-06-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a potential need for an Alteration Installation Team (AIT) leader to be responsible for the supervision of personnel in the installation of electronic,&nbsp; electrical and mechanical systems onboard US Navy, US Army and US Coast Guard vessels using installation drawing packages and work procedures.&nbsp; These systems include but are not limited to:&nbsp; Navigation, Interior Communications and Announcing, Interior Communications Switchboards, Hierarchal Yet Dynamic Reprogrammable Architecture (HYDRA), Ship Air Traffic Control Communication (SATCC) and Integrated Voice Communications Networks (IVCN).</p><p>&nbsp;</p><p>&nbsp;Additional position responsibilities include but are not limited to:</p><ul><li>Determine job pre-planning requirements</li><li>Develop and execute quality work packages</li><li>Interact with on-site government representative (OSR), ship&rsquo;s crew and shipyard personnel in support of job requirements and schedule</li><li>Receive and implement technical guidance from planning yards and design engineers</li><li>Report directly to the project manager and assist with preparation of estimates of material, equipment, production costs, resources, performance requirements, and delivery schedules to ensure completeness and accuracy</li><li>Serves as a customer advocate to provide support required to help ensure customer success</li><li>Represent the company at monthly VSRA and AMMA Safety and Quality Committee Meetings</li><li>Develop and maintain necessary documentation (processes, procedures and checklists) required for job execution and completion</li><li>Ability to travel occasionally</li></ul><p>&nbsp;</p><p>Candidates must possess the following skills and experience:</p><ul><li>10 years of experience in the AIT field with a minimum of 4 years as an AIT lead</li><li>Associates degree in Engineering or Engineering Technology, or completion of formal resident trade school or apprentice program in electronics, or completion of at least (2) US Navy &ldquo;C&rdquo; Schools in electronic equipment or systems</li><li>Must be familiar with standard concepts, practices, requirements and procedures within the field of electronics repair, fabrication and installation which includes extensive knowledge of NAVSEA Standard Items and OSHA requirements</li><li>Must be able to work in an industrial shipboard/shipyard environment</li><li>Must be able to read and understand drawings and schematics and have the troubleshooting skills to identify and resolve complex problems</li><li>Following certifications desired &ndash; OSHA 10 Hour Maritime, Scaffolding, Multi-Pin and or Fiber-Optic Connector Assembly, Cable Way, Fire Watch, Respirator, QA, Competent Shipyard Person and Paint Sampling</li><li>MS Word, Excel, PowerPoint, Project, Outlook</li></ul><p>&nbsp;</p><p>Must possess good communications skills, ability to perform multiple tasks, self-management skills, decision making skills, travel and work independently and be teamwork orientated.</p><p><strong>&nbsp;</strong></p><p><strong>Able to obtain and maintain Secret Security Clearance.</strong></p><p>&nbsp;</p><p>*Please note this position is pending upon approval of funding*</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-06-10T14:42:14Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[Norfolk]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Installation, Maintenance, Repair]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.40000	Engineering Services Division]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+	<job>
+		<jobId>133</jobId>
+		<applyUrl>
+			<![CDATA[https://wrsystems-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobInfo&version=1&jobid=133]]>
+		</applyUrl>
+		<title>
+			<![CDATA[Mobile Developer]]>
+		</title>
+		<trackingCode>
+			<![CDATA[J2015-05-001]]>
+		</trackingCode>
+		<jobDescription>
+			<![CDATA[<p>W R Systems, Ltd. has a need for a Mobile Developer to work onsite at a State Department facility and be responsible for successfully developing business processes within Mobile Maximo to assist in the integration of specific offices within DS.</p><p>&nbsp;</p><p>Position responsibilities include, but are not limited to the following:&nbsp;</p><ul><li>CMMS development;</li><ul><li>Work with offices to determine existing business processes;</li></ul><li><span style="font-size: 10pt;">Report development;</span></li></ul><ul><ul><li>Primary developer to integrate ST Mobile Maximo into Maximo (CMMS);</li><li>Attends CMMS steering committee meetings as a committee member, contributing to strategy sessions on mobile device improvements;</li><li>Receives requirements from CMMS team lead and develops to requirements;</li><li>Configure Mobile devices as needed;</li><li>Uses full lifecycle development cycle and project management disciplines including development, testing, pre and post deployment testing;</li><li>Documents and tracks development changes in SharePoint;</li><li>Creates deployment scripts in test and production environments;</li><li>Packages scripts into subversion; and</li><li>Installs mobile application and restricts PDA mobile devices according to user needs.</li></ul></ul><ul><li>Special Projects &ndash; performs special projects as needed</li><li>RFID</li><ul><li>Integrates RFID applications with ST mobile</li><li>Sets up with VM Ware</li></ul><li>Mobile Device Management (MDM)</li><ul><li>Register mobile devices to the MDM software</li><li>Pushes changes to mobile devices</li><li>Manages mobile devices through MDM</li></ul><li>Required to attend weekly meetings in affiliation with CMMS SA14, SA-20 and SA24, utilizing a Government vehicle as necessary</li></ul><p>&nbsp;</p><p>Candidates must possess the following experience and skills:</p><ul><li>3-5 years experience</li><li>Bachelor&rsquo;s degree in Computer Science or other IT-related discipline preferred; experience in lieu of will suffice</li><li>Experience deploying and/or designing client server</li><li>Extensive hands-on experience developing, installing, and customizing IBM Maximo 6.x or 7x</li><li>Ability to create workflows within the IBM Maximo application</li><li>Extensive experience with Syclo Mobile applications from a development perspective</li><li>Understanding and ability to create and modify Java Methods</li><li>Understanding of Maximo Business Objects (MBO)</li><li>Ability to configure Maximo including screen designs</li><li>Working knowledge of asset, work and supply chain management</li><li>Knowledge and understanding of database structuring</li><li>Knowledge and understanding of TRM&rsquo;s rules manager application</li><li>Understanding of SQL scripting and query writing</li><li>Understanding of web services providers, such as Web Logic, Web sphere or IIS</li><li>Working knowledge of business intelligence reporting tools such as SAP Business Objects and/or Cognos BI</li></ul><p>&nbsp;</p><p><strong>Ability to obtain and maintain Secret/Top Secret Security Clearance.</strong></p><p>&nbsp;</p><p>Must be highly motivated and have a positive attitude; Detailed oriented and possess excellent follow up skills; Outstanding technical writing and verbal communication skills; Able to perform research and quickly learn new technical concepts; Versatile and able to perform and manage multiple tasks concurrently; Well organized and able to adapt to constantly changing priorities; Dependable and able to meet and exceed delivery schedules.</p><p>&nbsp;</p><p>The selected candidate will support the organization's mission, vision, and values by exhibiting the following behaviors: high standard of quality in conduct and performance; determination to achieve excellence; ownership; accountability; competence; collaboration; innovation; focus; drive; enthusiasm; mutual trust and respect; dedication; loyalty; and good citizenship.</p><p>&nbsp;</p><p>W R Systems, Ltd. has a proven track record of high employee retention. We have been providing engineering, science and systems innovations, support and solutions to Public and Private sector since 1983. We encourage individual growth and provide a flexible work schedule with competitive benefit package. We acknowledge individual and group achievements through awards, bonuses, and various other formal and informal methods.</p><p>&nbsp;</p><p>W R Systems, Ltd., is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, marital status, veteran status, political affiliation, or any additional factors that are protected by law.</p><p style="text-align: center;"><br /><br /> Equal Opportunity Employer / Affirmative Action / Minority / Female / Vet / Disabled / Sexual Orientation / Gender Identity</p>]]>
+		</jobDescription>
+		<requiredSkills>
+			<![CDATA[]]>
+		</requiredSkills>
+		<requiredExperience>
+			<![CDATA[]]>
+		</requiredExperience>
+		<postingDate>
+			<![CDATA[2015-05-18T20:37:24Z]]>
+		</postingDate>
+		<jobLocation>
+			<countryCode>
+				<![CDATA[US]]>
+			</countryCode>
+			<region>
+				<![CDATA[Virginia]]>
+			</region>
+			<municipality>
+				<![CDATA[State Department - Rosslyn]]>
+			</municipality>
+		</jobLocation>
+		<category>
+			<![CDATA[Computer and Mathematics]]>
+		</category>
+		<businessUnit>
+			<![CDATA[1.20000	Government Business Solutions]]>
+		</businessUnit>
+		<positionType>
+			<![CDATA[Full-Time/Regular]]>
+		</positionType>
+	</job>
+</jobs>

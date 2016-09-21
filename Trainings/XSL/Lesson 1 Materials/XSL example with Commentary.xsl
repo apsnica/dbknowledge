@@ -1,25 +1,27 @@
+<!-- #### Obligatory lines and fields #### -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="xml" encoding="UTF-8" indent="yes" />
-    <!-- WR Systems-US
+    
+    <!-- #NAME OF THE MAP REQUEST#
   
-		Source = Silkroad 
-        ED3K4QF5XJYYKN6P3WHS = 	bulkposterUS@wrsystems.com
+		Source = #ATS NAME# 
+        #VENDOR ID# =  #BULK POSTER#
         
 		Link:
-		https://wrsystems-openhire.silkroad.com/api/index.cfm?fuseaction=app.getJobListings&FORMAT=xml&JOBPLACEMENT=external&KEYWORD=&LANGUAGE=en&VERSION=1
-
+		#LINK TO JOB SOURCE#
   -->
+  <!-- Calls master parent or the very first point of beginning (Which is defined as "*"). -->
     <xsl:template match="*">
 
         <xsl:element name="Batch">
             <xsl:element name="Header">
                 <xsl:element name="Field">
                     <xsl:attribute name="name">CBVendorID</xsl:attribute>
-                    <xsl:attribute name="value">ED3K4QF5XJYYKN6P3WHS</xsl:attribute>
+                    <xsl:attribute name="value">1234</xsl:attribute>
                 </xsl:element>
                 <xsl:element name="Field">
                     <xsl:attribute name="name">CBOrigin</xsl:attribute>
-                    <xsl:attribute name="value">Silkroad-CustomXSL</xsl:attribute>
+                    <xsl:attribute name="value">CustomXSL</xsl:attribute>
                 </xsl:element>
                 <xsl:element name="Field">
                     <xsl:attribute name="name">CBReplace</xsl:attribute>
@@ -30,6 +32,8 @@
                     <xsl:attribute name="value">dpisupport@careerbuilder.com,autopublish@careerbuilder.com</xsl:attribute>
                 </xsl:element>
             </xsl:element>
+<!-- #### End of obligatory lines and fields #### -->
+        <!-- Calls child nodes -->
             <xsl:for-each select="job">
                 <xsl:element name="Job">
                     <xsl:element name="Field">
@@ -43,6 +47,7 @@
                     <xsl:element name="Field">
                         <xsl:attribute name="name">CBUserJobID</xsl:attribute>
                         <xsl:attribute name="value">
+                        <!-- Calls node containing CBUserJobID and concatenates it with the required destination site tag -->
                             <xsl:value-of select="concat('US-',jobId)" />
                         </xsl:attribute>
                     </xsl:element>
