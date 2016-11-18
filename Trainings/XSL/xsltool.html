@@ -1,0 +1,497 @@
+<HTML ng-app="stringAtom">
+<!--CSS Code-->
+    <style>
+    
+    .blink_me {
+        -webkit-animation-name: blinker;
+        -webkit-animation-duration: 1s;
+        -webkit-animation-timing-function: linear;
+        -webkit-animation-iteration-count: infinite;
+
+        -moz-animation-name: blinker;
+        -moz-animation-duration: 1s;
+        -moz-animation-timing-function: linear;
+        -moz-animation-iteration-count: infinite;
+
+        animation-name: blinker;
+        animation-duration: 1s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+    }
+
+    @-moz-keyframes blinker {  
+        0% { opacity: 1.0; }
+        50% { opacity: 0.0; }
+        100% { opacity: 1.0; }
+    }
+
+    @-webkit-keyframes blinker {  
+        0% { opacity: 1.0; }
+        50% { opacity: 0.0; }
+        100% { opacity: 1.0; }
+    }
+
+    @keyframes blinker {  
+        0% { opacity: 1.0; }
+        50% { opacity: 0.0; }
+        100% { opacity: 1.0; }
+    }
+
+
+    #wrapper {
+        width: 1350px;
+    }
+    
+    #wrapper #c1 {
+        width: 37%;
+        float: left;
+        display: inline-block;
+    }
+    
+    #wrapper #cabs {
+        width: 55%;
+        height:95%;
+        position: absolute;
+        position:fixed; 
+        top:0.4%; 
+        right:2%; 
+        padding:10px; 
+        font-family:Arial; 
+        background: gray; 
+        border:1px solid black;
+    }
+    
+    
+
+    #wrapper #c3 {
+        float: right;
+    }
+    
+textarea { 
+background-color: black; 
+color: #00FF00;
+width: 100%;
+height: 100%;
+}
+
+input, select {
+background-color: #000080; 
+color: white;
+}
+
+HTML{
+ 
+ background-image: linear-gradient(#8b9da9, #fff6e4);
+ box-shadow: inset 0 0 100px hsla(0,0%,0%,.3);
+ }
+ 
+ .myButton {
+	-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c));
+	background:-moz-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-webkit-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-o-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-ms-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c',GradientType=0);
+	background-color:#768d87;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87));
+	background:-moz-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-webkit-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-o-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-ms-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#768d87',GradientType=0);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.redButton {
+	-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #942700), color-stop(1, #000000));
+	background:-moz-linear-gradient(top, #942700 5%, #000000 100%);
+	background:-webkit-linear-gradient(top, #942700 5%, #000000 100%);
+	background:-o-linear-gradient(top, #942700 5%, #000000 100%);
+	background:-ms-linear-gradient(top, #942700 5%, #000000 100%);
+	background:linear-gradient(to bottom, #942700 5%, #000000 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#942700', endColorstr='#000000',GradientType=0);
+	background-color:#942700;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #b30000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.redButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #942700));
+	background:-moz-linear-gradient(top, #000000 5%, #942700 100%);
+	background:-webkit-linear-gradient(top, #000000 5%, #942700 100%);
+	background:-o-linear-gradient(top, #000000 5%, #942700 100%);
+	background:-ms-linear-gradient(top, #000000 5%, #942700 100%);
+	background:linear-gradient(to bottom, #000000 5%, #942700 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#942700',GradientType=0);
+	background-color:#000000;
+}
+.redButton:active {
+	position:relative;
+	top:1px;
+}
+
+.div_text_shadow 
+{
+color: rgb(255, 255, 255);
+font-size: 30px;
+text-shadow: rgb(46, 46, 46) 0px 4px 5px;
+}
+
+.div_text_shadow2 
+{
+color: rgb(72,0,0);
+font-size: 15px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.div_text_shadow3 
+{
+color: #3300CC;
+font-size: 20px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+
+input[type=text], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #DDDDDD;
+}
+ 
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+
+</style>
+<!--End of CSS code-->
+<!--AngularJS and JQuery implentation-->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!--EO AngularJS Implementation-->
+
+<!--External JS library implementation-->
+<script src="http://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<!--Header title -->
+
+<div id="wrapper">
+    <div id="c1">
+    <head><meta charset="UTF-8"></head>
+    <HEADER><b class='div_text_shadow'>Generate XSL!</b><small><b>    Created by: Paul Rodriguez</b></small>
+    </HEADER>
+<!--End of Header title -->
+    <BODY ng-controller="Programa">
+
+        <!--Buttons to add and remove strings. -->
+        <br><DIV id="stringform" style='display:"inblock"'>
+            
+            <i onclick="hidediv(this)" class="fa fa-angle-double-down"><b class='div_text_shadow3'>Advanced Setup:</b></i>
+            <DIV class="classcont">
+            <DIV style='display:"inblock"' ng-repeat="n in amountadvancedsetup" class="formcont">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input disabled="disabled" type='textbox' ng-model="amountadvancedsetup[$index].string" />
+                <input type='textbox' ng-model="amountadvancedsetup[$index].value" />
+            </DIV>
+            </DIV>
+            <br />
+            <i onclick="hidediv(this)" class="fa fa-angle-double-up"><b class='div_text_shadow3'>Meta Data:</b></i>
+            <DIV class="classcont">
+            <DIV style='display:"inblock"' ng-repeat="n in metadata" class="formcont">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input disabled="disabled" type='textbox' ng-model="metadata[$index].string" />
+                <input type='textbox' ng-model="metadata[$index].value" />
+            </DIV>
+            </DIV>
+            <br />
+             <i onclick="hidediv(this)" class="fa fa-angle-double-up"><b class='div_text_shadow3'>Header Fields:</b></i>
+             <DIV class="classcont">
+            <DIV style='display:"inblock"' ng-repeat="n in amountofheaderdefaults">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input disabled="disabled" type='textbox' ng-model="amountofheaderdefaults[$index].string" />
+                <input type='textbox' ng-model="amountofheaderdefaults[$index].value" />
+            </DIV>
+            </DIV>
+            <br />
+            <i onclick="hidediv(this)" class="fa fa-angle-double-up"><b class='div_text_shadow3'>Company Default:</b></i>
+            <DIV class="classcont">
+            <input class="myButton" type='button' value='Add Default field' ng-click="increaseone('defaultfield')"/>
+            <input class="redButton" type='button' value='Remove Default Field' ng-click="decreaseone('defaultfield')" ng-disabled="amountofstrings.length==0"/>
+            <DIV style='display:"inblock"' ng-repeat="n in amountofdefaults">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input type='textbox' ng-model="amountofdefaults[$index].string" />
+                <input type='textbox' ng-model="amountofdefaults[$index].value" />
+            </DIV>
+            </DIV>
+            <br />
+            <i onclick="hidediv(this)" class="fa fa-angle-double-up"><b class='div_text_shadow3'>XSL Parameters:</b></i>
+             <DIV class="classcont">
+            <DIV style='display:"inblock"' ng-repeat="n in amountxlparameters">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input type='textbox' ng-model="amountxlparameters[$index].string" />
+                <input type='textbox' ng-model="amountxlparameters[$index].value" />
+            </DIV>
+            </DIV>
+            <br />
+            <i onclick="hidediv(this)" class="fa fa-angle-double-up"><b class='div_text_shadow3'>XSL Fields:</b></i>
+            <DIV class="classcont">
+            <input class="myButton" type='button' value='Add XSL field' ng-click="increaseone('xslfield')"/>
+            <input class="redButton" type='button' value='Remove XSL Field' ng-click="decreaseone('xslfield')" ng-disabled="amountofstrings.length==0"/>
+            <DIV style='display:"inblock"' ng-repeat="n in amountofstrings">
+                <b class='div_text_shadow2'>Field and value {{$index+1}}:</b> 
+                <input type='textbox' ng-model="amountofstrings[$index].string" />
+                <input type='textbox' ng-model="amountofstrings[$index].value" />
+            </DIV>
+            </DIV>
+        </DIV>
+        <!--End of buttons section -->
+    </BODY>
+    </div>
+    <div id="cabs">
+               <DIV style='display:"inblock"'>
+            <!--Template containing the textarea box -->
+             <datan-string></datan-string>
+             <!--End of template -->
+        </DIV>
+    </div>   
+</div>
+    <!--Start of Javscript and AngularJS scripts-->
+    <SCRIPT>
+        var app = angular.module('stringAtom', []);
+        
+        app.directive('datanString', function($compile) {
+        return {
+            restrict: "E",
+            scope: true,
+            //template: '<textarea disabled="disabled"  onclick="select()" id="textareaxsl
+            template: "<div id='textareaxsl'><div>",
+            controller: "Programa"
+            };
+        });
+
+        //Only use if you want to do a for loop in AngularJS
+        /*
+        app.filter('range', function() {
+            return function(input, total) {
+                total = parseInt(total);
+                for (var i = 0; i < total; i++)
+                    input.push(i);
+                return input;
+            };
+        });
+        */
+        
+        //Global variables for AngularJS
+        app.factory('items', function() {
+            var variables = {};
+            variables.maprequestdetails = [
+                {string:'Map request name',value:''},
+                {string:'Source(ATS)',value:''},
+                {string:'Main bulkposter',value:''},
+                {string:'Vendor ID main bulkposter',value:''},
+                {string:'Test bulkposter',value:''},
+                {string:'Vendor ID test bulkposter',value:''},
+                {string:'Link to the job source',value:''}
+            ];
+            
+            variables.xslparameters = [
+                {string:'Job delimiter tag name',value:''},
+                {string:'Tag check',value:''}
+            ];      
+            
+            variables.numeroadvancedsetup = [{string:'XML Namespaces',value:''}];
+            
+            variables.numerostrings = [
+            {string:'CBUserJobID',value:''},
+            {string:'CBDescription',value:''},
+            {string:'CBApplyURL',value:''},
+            {string:'CBCity',value:''},
+            {string:'CBState',value:''},
+            {string:'CBCountry',value:''},
+            {string:'CBJobTitle',value:''}];
+            
+            variables.numerodefaults = [{string:'CBAction',value:'Add'}];
+            
+            variables.numeroalwaysdefault = [{string:'CBVendorID',value:''},{string:'CBOrigin',value:'CustomXSL'},{string:'CBReplyTo',value:'dpisupport@careerbuilder.com,autopublish@careerbuilder.com'},{string:'CBReplace',value:'Yes'}];
+            
+            variables.getxslparameters = function() {
+                return variables.xslparameters;
+            };
+            
+            variables.getnumerostring = function() {
+                return variables.numerostrings;
+            };
+            variables.getnumerodefaults = function() {
+                return variables.numerodefaults;
+            };
+            variables.getnumeroheaderdefaults = function() {
+                return variables.numeroalwaysdefault;
+            };
+            variables.getmaprequestdetails = function() {
+                return variables.maprequestdetails;
+            };
+            variables.getadvancedsetup = function() {
+                return variables.numeroadvancedsetup;
+            };
+            return variables;
+        });
+        //End of Global Variables
+        
+        //AngularJS functions for the main application
+        var Programa = function($scope, items, $compile) {
+            var xsltemplate = "<textarea disabled='disabled'><xsl:stylesheet {{amountadvancedsetup[0].value}} xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; version=&quot;2.0&quot;>   <xsl:output method=&quot;xml&quot; encoding=&quot;UTF-8&quot; indent=&quot;yes&quot;></xsl:output> <!--\n\n{{metadata[0].value}}:\nSource = {{metadata[1].value}}\n\{{metadata[2].value}}={{metadata[3].value}}\n{{metadata[4].value}}={{metadata[5].value}}\n\nClient's site:\n{{metadata[6].value}}\n\n--><xsl:template match=&quot;*&quot;>     <xsl:variable name=&quot;q&quot;>&quot;</xsl:variable>     <xsl:variable name=&quot;lsq&quot;>“</xsl:variable>     <xsl:variable name=&quot;rsq&quot;>”</xsl:variable>     <xsl:variable name=&quot;sq&quot;>'</xsl:variable>     <xsl:variable name=&quot;rssq&quot;>’</xsl:variable>     <xsl:variable name=&quot;lf&quot;></xsl:variable>     <xsl:variable name=&quot;brtag&quot;>&lt;BR /&gt;</xsl:variable>     		<xsl:element name=&quot;Batch&quot;>       <xsl:element name=&quot;Header&quot;> 	  	                 <xsl:element name=&quot;Field&quot;>           <xsl:attribute name=&quot;name&quot;>CBVendorID</xsl:attribute>           <xsl:attribute name=&quot;value&quot;>{{amountofheaderdefaults[0].value}}</xsl:attribute>         </xsl:element>         <xsl:element name=&quot;Field&quot;>           <xsl:attribute name=&quot;name&quot;>CBOrigin</xsl:attribute>           <xsl:attribute name=&quot;value&quot;>{{amountofheaderdefaults[1].value}}</xsl:attribute>         </xsl:element>         <xsl:element name=&quot;Field&quot;>           <xsl:attribute name=&quot;name&quot;>CBReplace</xsl:attribute>           <xsl:attribute name=&quot;value&quot;>{{amountofheaderdefaults[3].value}}</xsl:attribute>         </xsl:element>         <xsl:element name=&quot;Field&quot;>           <xsl:attribute name=&quot;name&quot;>CBReplyTo</xsl:attribute>           <xsl:attribute name=&quot;value&quot;>{{amountofheaderdefaults[2].value}}</xsl:attribute>         </xsl:element> 	                 </xsl:element>       	  <xsl:for-each select=&quot;{{amountxlparameters[0].value}}&quot;> 	  {{((amountxlparameters[1].value).length>0)?'<xsl:if test=&quot;contains('+amountxlparameters[1].string+','+amountxlparameters[1].value+')&quot;>':''}}           <xsl:element name=&quot;Job&quot;>              {{addfield('default')}} {{addfield('xsl')}}             <!-- EOJ-->           </xsl:element> 		  {{((amountxlparameters[1].value).length>0)?'</xsl:if>':''}}           <!-- End of CB Job node --> 		        </xsl:for-each>       <!-- End of BM job node -->     </xsl:element> 	     <!-- End of Batch -->   </xsl:template>   <xsl:template name=&quot;replace_sab&quot;>     <!-- with string s, replace substring a by string b -->     <!-- s, a and b are parameters determined upon calling  -->     <xsl:param name=&quot;s&quot;></xsl:param>     <xsl:param name=&quot;a&quot;></xsl:param>     <xsl:param name=&quot;b&quot;></xsl:param>     <xsl:choose>       <xsl:when test=&quot;contains($s,$a)&quot;>         <xsl:value-of select=&quot;substring-before($s,$a)&quot;></xsl:value-of>         <xsl:copy-of select=&quot;$b&quot;></xsl:copy-of>         <xsl:call-template name=&quot;replace_sab&quot;>           <xsl:with-param name=&quot;s&quot; select=&quot;substring-after($s,$a)&quot;></xsl:with-param>           <xsl:with-param name=&quot;a&quot; select=&quot;$a&quot;></xsl:with-param>           <xsl:with-param name=&quot;b&quot; select=&quot;$b&quot;></xsl:with-param>         </xsl:call-template>       </xsl:when>       <xsl:otherwise>         <xsl:value-of select=&quot;$s&quot;></xsl:value-of>       </xsl:otherwise>     </xsl:choose>   </xsl:template> </xsl:stylesheet></textarea>";
+            var defaultxslfield = "\n<xsl:element name=&quot;Field&quot;>\n<xsl:attribute name=&quot;name&quot;>{{replacetext1}}</xsl:attribute>\n<xsl:attribute name=&quot;value&quot;>{{replacetext2}}</xsl:attribute>\n</xsl:element>";
+            var normalxslfield = "<xsl:element name=&quot;Field&quot;>\n<xsl:attribute name=&quot;name&quot;>{{replacetext1}}</xsl:attribute>\n<xsl:attribute name=&quot;value&quot;>\n<xsl:value-of select=&quot;{{replacetext2}}&quot;></xsl:value-of>\n</xsl:attribute>\n</xsl:element>";
+            var xslchuck = "&lt;lol&gt;{{amountadvancedsetup[0].value}}";
+            
+            $scope.xsltemplatef = function() { 
+            return vkbeautify.xml(xsltemplate); };
+            
+            $("#textareaxsl").html($compile($scope.xsltemplatef())($scope));
+            
+            $scope.amountofstrings = items.getnumerostring();
+            $scope.amountofdefaults = items.getnumerodefaults();
+            $scope.amountofheaderdefaults = items.getnumeroheaderdefaults();
+            $scope.metadata = items.getmaprequestdetails();
+            $scope.amountadvancedsetup = items.getadvancedsetup();
+            $scope.amountxlparameters = items.getxslparameters();
+            
+
+        
+            $scope.increaseone = function(param) {
+            switch(param) {
+            case 'xslfield':
+                items.numerostrings.push({string:"",value:""});
+                break;
+                
+            case 'defaultfield':
+                items.numerodefaults.push({string:"",value:""});
+                break;      
+            }
+            };
+
+            $scope.decreaseone = function(param) {
+            switch(param) {
+            case 'xslfield':
+                $scope.amountofstrings.pop()
+                break;
+                
+            case 'defaultfield':
+                $scope.amountofdefaults.pop();
+                break;      
+            }
+            };
+            
+            $scope.concatstrings = function(param) {
+                var string = "";
+                for(a=0;a<$scope.param.length;a++)
+                {
+                    string+=$scope.param[a].string;
+                }
+                console.log(string);
+                return string;
+            };
+            
+            $scope.addfield = function(param) {
+                var string = "";
+                switch(param){
+                    case "default":
+                        for(i=0;i<$scope.amountofdefaults.length;i++)
+                        {
+                        var def = defaultxslfield.replace("{{replacetext1}}",$scope.amountofdefaults[i].string);
+                        def = def.replace("{{replacetext2}}",$scope.amountofdefaults[i].value);
+                        def = def.replace(/&quot;/g,'"');
+                        string+= vkbeautify.xml(def);
+                        }
+                        break;
+                    case "xsl":
+                        for(i=0;i<$scope.amountofstrings.length;i++)
+                        {
+                        var def2 = normalxslfield.replace("{{replacetext1}}",$scope.amountofstrings[i].string);
+                        def2 = def2.replace("{{replacetext2}}",$scope.amountofstrings[i].value);
+                        def2 = def2.replace(/&quot;/g,'"');
+                        string+= vkbeautify.xml(def2);
+                        }
+                        break;
+                }
+                return string;
+            };
+        
+            
+            return null;
+            
+            
+        }
+        //End of AngularJS code
+        //Start of regular Javascript/JQuery Code
+        /*
+        $( document ).ready(function() {
+            setInterval(function(){
+                if($("#textareaxsl").val().indexOf("¦") !=-1)
+            $("#textareaxsl").val($("#textareaxsl").val().replace("¦",""));
+                else
+            $("#textareaxsl").val($("#textareaxsl").val()+"¦");
+            }
+        , 1000); 
+        });
+        */
+        
+        function hidediv(param)
+        {
+            $(param).next("DIV").slideToggle(function() {
+    $(param).toggleClass("fa-angle-double-up fa-angle-double-down");
+  });
+            $(param).class
+        }
+        
+        $( document ).ready(function() {
+            $(".classcont").first().hide();
+        });
+        </SCRIPT>
+        <!--End of javascript codes-->
+    </HTML>
